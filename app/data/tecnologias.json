@@ -1,0 +1,87 @@
+
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
+    "description": "Linguagem de marcação utilizada para estruturar páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Linguagem utilizada para definir a apresentação e os estilos das páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwind.svg",
+    "description": "Framework CSS que permite estilizar interfaces através de classes utilitárias.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação que permite criar páginas web interativas.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Extensão do JavaScript que acrescenta tipagem estática.",
+    "rating": 4
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato utilizado para armazenar e trocar dados estruturados.",
+    "rating": 4
+  },
+  {
+    "title": "API RESTful",
+    "image": "api.svg",
+    "description": "Interface que permite a comunicação entre aplicações através de pedidos HTTP.",
+    "rating": 5
+  },
+  {
+    "title": "Swagger",
+    "image": "swagger.svg",
+    "description": "Conjunto de ferramentas para documentar e testar APIs.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma para alojamento de repositórios Git e colaboração em projetos.",
+    "rating": 5
+  },
+  {
+    "title": "Codespaces",
+    "image": "codespaces.svg",
+    "description": "Ambiente de desenvolvimento na cloud integrado com o GitHub.",
+    "rating": 5
+  },
+  {
+    "title": "GitHub Pages",
+    "image": "githubpages.svg",
+    "description": "Serviço de alojamento de websites estáticos através de repositórios GitHub.",
+    "rating": 4
+  },
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca JavaScript para criar interfaces através de componentes reutilizáveis.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework baseada em React para desenvolver aplicações web modernas.",
+    "rating": 5
+  },
+  {
+    "title": "Vercel",
+    "image": "vercel.svg",
+    "description": "Plataforma de alojamento e publicação de aplicações web.",
+    "rating": 4
+  }
+]
